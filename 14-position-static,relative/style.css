@@ -1,0 +1,78 @@
+body{
+    background-color: rgb(236, 222, 222);
+}
+.player{
+    width: 300px;
+}
+#abhisheksharmaPic{
+    position: relative;
+    left: 200px;
+}
+#kohliPic{
+    position: relative;
+    left: 550px;
+    z-index: 20;
+}
+#yashdayalPic{
+    position: relative;
+    right: 500px;
+}
+#nitishkumarreddyPic{
+    position: relative;
+    bottom: 608px;
+    left: 100px;
+}
+#rajitpatidarPic{
+    position: relative;
+    bottom: 305px;
+    left: 70px;
+}
+
+#travisheadPic{
+    position: relative;
+    z-index: 25 ;
+}
+#ravindrajadejaPic{
+    position: relative;
+    left: 200px;
+}
+#rachinravindraPic{
+    position: relative;
+    top: 305px;
+    right: 290px;
+    z-index: 20;
+}
+#GaikwadPic{
+    position: relative;
+    top: 610px;
+    right: 450px;
+}
+#axarpatelPic{
+    position: relative;
+    left: 300px;
+    z-index: 20;
+}
+#kuldeepyadavPic{
+    position: relative;
+    bottom: 303px;
+    left: 490px;
+}
+#mukeshkumarPic{
+    position: relative;
+    bottom: 607px;
+    left: 120px;
+}
+#IPLlogo{
+     width: 100px;
+     position: fixed;
+     opacity: 50%;
+     right: 40px;
+     top: 50px;
+     filter: drop-shadow(10px 10px 10px);
+}
+#Royals{
+    background-color: rgb(132, 99, 202);
+    position: sticky;
+    top: 0px;
+    left: 0px;
+}
